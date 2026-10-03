@@ -1,0 +1,6 @@
+{
+  "name": "IGCSE 0580 Quadratic Curves Lab",
+  "description": "Interactive Cambridge IGCSE 0580 mathematics learning module on curved graphs & sketching quadratics: point-by-point curve discovery, turning points, roots, 1-mark exercises, and PDF teacher submission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
